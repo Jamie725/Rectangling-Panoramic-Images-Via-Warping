@@ -1,0 +1,8 @@
+[Readme]
+This is an c++ mex and Matlab 2013 implement of paper "Rectangling Panoramic Images via Warping", SIGGRAPH 2013
+
+You can test all by "runAll.m"
+The test cases can be changed by changing the nameset.
+Be sure to make the blank of your test case(pixels without value in panorama) to be all white(near 255).
+
+Enjoy the code!
